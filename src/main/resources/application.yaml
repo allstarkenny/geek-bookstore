@@ -1,0 +1,5 @@
+server:
+  error:
+    include-exception: true
+    include-stacktrace: always
+  port: 8080
